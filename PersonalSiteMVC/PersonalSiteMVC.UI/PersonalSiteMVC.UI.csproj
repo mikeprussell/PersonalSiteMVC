@@ -128,7 +128,6 @@
     <Compile Include="_Archive\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
     <Compile Include="_Archive\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
     <Compile Include="_Archive\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
-    <Compile Include="_Archive\Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\assets\favicon.ico" />
@@ -151,6 +150,7 @@
     <Content Include="Content\assets\img\skyline.jpg" />
     <Content Include="Content\assets\img\william-mccarty.jpg" />
     <Content Include="Content\css\styles.css" />
+    <Content Include="Content\favicon.ico" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -167,6 +167,7 @@
     <Content Include="Scripts\scripts.js" />
     <Content Include="Scripts\start-debug.js" />
     <Content Include="Scripts\start.js" />
+    <Content Include="Views\Shared\js\scripts.js" />
     <Content Include="_Archive\assets\favicon.ico" />
     <Content Include="_Archive\assets\img\about-bg.jpg" />
     <Content Include="_Archive\assets\img\amanda-allen.jpg" />
