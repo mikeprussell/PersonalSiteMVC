@@ -262,7 +262,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_OriginalLayout.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="_Archive\bin\PSv2.dll.config" />
     <Content Include="_Archive\bin\roslyn\csc.exe.config" />
@@ -282,6 +281,8 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Resume.cshtml" />
     <Content Include="Views\Home\Projects.cshtml" />
+    <Content Include="Views\Home\Links.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
     <None Include="_Archive\packages.config" />
     <Content Include="_Archive\Web.config" />
     <None Include="_Archive\Web.Debug.config">
