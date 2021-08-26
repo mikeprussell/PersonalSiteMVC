@@ -281,6 +281,7 @@
     <Content Include="_Archive\obj\Debug\PSv2.csprojAssemblyReference.cache" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Resume.cshtml" />
+    <Content Include="Views\Home\Projects.cshtml" />
     <None Include="_Archive\packages.config" />
     <Content Include="_Archive\Web.config" />
     <None Include="_Archive\Web.Debug.config">

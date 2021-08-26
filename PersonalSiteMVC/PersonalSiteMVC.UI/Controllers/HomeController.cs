@@ -18,6 +18,13 @@ namespace PersonalSiteMVC.UI.Controllers
             return View();
         }
 
+        public ActionResult Projects()
+        {
+            return View();
+        }
+
+
+
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
