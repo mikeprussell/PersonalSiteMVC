@@ -29,11 +29,6 @@ namespace PersonalSiteMVC.UI.Controllers
 
         }
 
-        public ActionResult Contact()
-        {
-            return View();
-        }
-
     }
 
 }
