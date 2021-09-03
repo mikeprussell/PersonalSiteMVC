@@ -285,8 +285,11 @@
     <Content Include="Views\Home\Resume.cshtml" />
     <Content Include="Views\Home\Projects.cshtml" />
     <Content Include="Views\Home\Links.cshtml" />
+    <Content Include="configs\AppSecretKeys.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\Contact\Contact.cshtml" />
-    <Content Include="configs\AppSecretKeys.config" />
+    <Content Include="Views\Contact\EmailConfirmation.cshtml" />
     <None Include="_Archive\packages.config" />
     <Content Include="_Archive\Web.config" />
     <None Include="_Archive\Web.Debug.config">
