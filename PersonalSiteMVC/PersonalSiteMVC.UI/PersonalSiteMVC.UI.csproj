@@ -140,6 +140,7 @@
     <Content Include="Content\assets\img\caleb-mitchell.jpg" />
     <Content Include="Content\assets\img\contact-bg.jpg" />
     <Content Include="Content\assets\img\corey-anderson.jpg" />
+    <Content Include="Content\assets\img\email-confirmation.jpg" />
     <Content Include="Content\assets\img\headshot.png" />
     <Content Include="Content\assets\img\home-bg.jpg" />
     <Content Include="Content\assets\img\jacob-roelofsz.jpg" />
@@ -290,6 +291,8 @@
     </Content>
     <Content Include="Views\Contact\Contact.cshtml" />
     <Content Include="Views\Contact\EmailConfirmation.cshtml" />
+    <Content Include="_Archive\assets\MichaelRussellResume.pdf" />
+    <Content Include="Content\assets\MichaelRussellResume.pdf" />
     <None Include="_Archive\packages.config" />
     <Content Include="_Archive\Web.config" />
     <None Include="_Archive\Web.Debug.config">
